@@ -1,0 +1,5 @@
+{
+    "url": "https://data.insideairbnb.com/united-states/ny/albany/2024-09-05/visualisations/listings.csv",
+    "bucket_name": "myairbnbbucket1",
+    "s3_key": "United States/New York/Albany/listings.csv"
+  }
